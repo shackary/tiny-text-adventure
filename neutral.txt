@@ -1,0 +1,11 @@
+version:neutral
+name:you
+time:none
+weather:clouds
+weather_adj:cloudy
+bed_behavior:going back to sleep
+mouth:exhale
+howsleep:gradually
+dream:nonspecific
+sleepfeel:ready
+daytype:normal

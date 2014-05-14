@@ -1,0 +1,11 @@
+version:sad
+name:you
+time:none
+weather:rain
+weather_adj:raining
+bed_behavior:going back to sleep
+mouth:groan
+howsleep:almost instantly
+dream:horrific
+sleepfeel:almost grateful
+daytype:shitty

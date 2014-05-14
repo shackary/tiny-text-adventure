@@ -1,0 +1,52 @@
+title
+{
+
+	*****TINY TEXT ADVENTURE!!*****
+	Welcome to Tiny Text Adventure!  
+	Before we start, I need to ask
+	you a few simple questions.  
+	Press ENTER to continue...
+}
+
+timewaster
+{
+
+	That's all I have done right now.  Not much, I know.
+	But I actually put a lot more work into the time system than it needed.
+	So I want to give you the chance to play with it.
+	Right now it's %(time)s.
+	Do you want to waste some time?
+}
+
+room1
+{
+
+	***BEEEP BEEEP BEEEP BEEEP BEEEP BEEEP BEEEP***
+	You awaken to a furious alarm clock.
+	What the hell?  You slap the snooze button, then turn the alarm off.
+	It's Saturday, your alarm shouldn't be on anyway.
+	It's %(time)s, and it's %(weather_adj)s outside.
+	You think about the %(weather)s, then consider %(bed_behavior)s.
+	Do you?
+}
+
+room1a
+{
+
+	You %(mouth)s and lay your head back down on the pillow.
+	Sleep comes %(howsleep)s.  
+}
+
+room1b
+{
+
+	You wake up with a vague memory of some %(dream)s dream.
+	You feel %(sleepfeel)s to be awake.  It's %(time)s.
+}
+
+room2
+{
+
+	You swing your feet over the side of the bed, %(mouth)s, and stand.
+	Then you head out of your bedroom ready for a %(daytype)s day.
+}

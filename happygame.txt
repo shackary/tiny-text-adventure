@@ -1,0 +1,11 @@
+version:happy
+name:you
+time:none
+weather:sun
+weather_adj:sunny
+bed_behavior:getting up
+mouth:smile
+howsleep:with difficulty
+dream:wonderful
+sleepfeel:slightly disappointed
+daytype:fantastic
